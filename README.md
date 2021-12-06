@@ -1,11 +1,10 @@
 # Book Search Engine
 
 ## Description
-This project was built as a full stack site to search your favorite books
+This project was built as a full stack site to search your favorite books.
 
 ## Deployed Site
-
-![homepage](./client/public/images/homepage.png)
+https://vast-plains-09942.herokuapp.com/
 
 ## Questions
 Contact me here:
